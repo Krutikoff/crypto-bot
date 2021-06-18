@@ -1,0 +1,11 @@
+.vscode/*
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/settings.json.template
+
+*.egg-info/
+*.egg
+__pycache__/
+
+.mypy_cache
+.pytest_cache

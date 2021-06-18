@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "redhat.vscode-yaml",
+        "njpwerner.autodocstring",
+        "rpinski.shebang-snippets",
+        "ms-python.vscode-pylance",
+        "lextudio.restructuredtext",
+        "snooty.snooty",
+        "hbenl.vscode-test-explorer"
+    ]
+}

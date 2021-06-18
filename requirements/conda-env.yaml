@@ -1,0 +1,9 @@
+# HOW TO: conda env create -f conda-env.yml
+name: crypto_bot
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+      - -r requirements.txt
